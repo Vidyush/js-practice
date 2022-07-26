@@ -4,3 +4,4 @@ This is a repository which contains practice HTML, CSS and javascript basic webs
 
 1. ParaGenerator - This website is used to create a paragraph of given length.(For now it generates random string from A-Z)
 2. Todo - As name emplies it is basically a todo website which works with the help of localstorage to manage todo's.
+3. WeatherApp - This website is used to fetch the weather condition of a location with the help of Weather API.
